@@ -1,4 +1,4 @@
-# Interactive-Image-Processing-Tool-with-OpenCV-and-Gradio
+
 <div>
   <h1>Interactive Image Filter Application</h1>
   
@@ -16,7 +16,7 @@
       </ul>
     </div>
     
-    <div class="feature-card">
+   <div class="feature-card">
       <h3>Morphological Processing</h3>
       <ul>
         <li>Erosion with configurable kernels</li>
