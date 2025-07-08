@@ -109,7 +109,7 @@
     <li>Processing speed depends on server capabilities</li>
   </ul>
 </div>
- <style>
+<style>
 .features-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -131,4 +131,4 @@ th, td {
   padding: 8px;
   text-align: left;
 }
- </style>
+</style>
