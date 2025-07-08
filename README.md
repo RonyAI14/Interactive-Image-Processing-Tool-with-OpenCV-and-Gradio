@@ -101,7 +101,7 @@
     </tr>
   </table>
 
-  <h2>Usage Limitations</h2>
+<h2>Usage Limitations</h2>
   <ul>
     <li>Requires active Python session to maintain operation</li>
     <li>Image size limitations based on server resources</li>
