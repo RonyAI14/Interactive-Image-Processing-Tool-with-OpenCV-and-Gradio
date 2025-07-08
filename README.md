@@ -109,26 +109,3 @@
     <li>Processing speed depends on server capabilities</li>
   </ul>
 </div>
-<style>
-.features-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-  margin: 20px 0;
-}
-.feature-card {
-  border: 1px solid #ddd;
-  padding: 15px;
-  border-radius: 8px;
-}
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin: 20px 0;
-}
-th, td {
-  border: 1px solid #ddd;
-  padding: 8px;
-  text-align: left;
-}
-</style>
