@@ -25,7 +25,7 @@
       </ul>
     </div>
     
-    <div class="feature-card">
+  <div class="feature-card">
       <h3>Thresholding Suite</h3>
       <ul>
         <li>Global Threshold (Manual)</li>
@@ -34,7 +34,7 @@
       </ul>
     </div>
     
-    <div class="feature-card">
+  <div class="feature-card">
       <h3>Advanced CV Techniques</h3>
       <ul>
         <li>Boundary Extraction</li>
